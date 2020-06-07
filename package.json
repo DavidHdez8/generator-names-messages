@@ -12,5 +12,10 @@
     "npm"
   ],
   "author": "David Vargas Hernández <david-0610@live.com.mx>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "random-x": "../bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {}
 }

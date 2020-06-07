@@ -16,5 +16,4 @@ const randomMsg = () => {
     console.log(message);
 }
 
-
 module.exports = { randomMsg };
